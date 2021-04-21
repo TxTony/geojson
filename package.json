@@ -1,0 +1,15 @@
+{
+  "name": "geojson",
+  "version": "1.0.0",
+  "description": "geoJson helper class respecting the standard RFC 7946.",
+  "main": "GeoJson.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "geoJson",
+    "location"
+  ],
+  "author": "txtony <t.tipveau@berd.re>",
+  "license": "ISC"
+}
